@@ -1,0 +1,6 @@
+.env
+.chatid
+.monitor.flag
+positions.json
+venv/
+__pycache__/
